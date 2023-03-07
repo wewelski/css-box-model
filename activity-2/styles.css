@@ -1,25 +1,25 @@
-.one, .three {
-  padding: 32px;
-  width: 480px;
+body {
+  max-width: 600px;
+  margin: 0 auto;
 }
 
 .one {
-  border: 2px solid blue;
+  background: pink;
+  border: 3px solid blue;
+  padding: 32px;
   margin: 12px;
-  background-color: lightpink;
 }
 
 .two {
-  background-color: lightblue;
+  background: lightblue;
+  border: 3px solid purple;
   margin-bottom: 48px;
 }
 
-.two, .three {
-  border: 2px solid red;
-  width: 480px;
-}
-
 .three {
-  margin-left: 30px;
-  background-color: lightgoldenrodyellow;
+  background: peachpuff;
+  border: 3px solid brown;
+  width: 200px;
+  padding: 32px;
+  margin-left: 332px;
 }
