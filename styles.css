@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+  font-family: "Trebuchet MS", sans-serif;
+}
+
+div {
+  border: 1px solid lightskyblue;
+  padding: 25px 200px;
+  margin: 100px auto;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
